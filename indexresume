@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+
+<div id="main-page">
+ <h1>Gustavo Espinoza</h1>    
+
+<div class="contact-info">
+  <span>gustavo55@gmail.com</span>
+  <span> 777-777-7777  </span> 
+  <span>1234 Forest Ave.</span> 
+</div>  
+  
+  <br />
+  <br />
+  
+  <h2 class="section-header">Education</h2>
+  <div class="break-line"></div>
+</div>
+
+</html>
+    <head> 
+     <Link rel ="stylesheet" type="
+    </head>
+
+<css>
+#main-page {
+ margin-left: 10%;  
+ margin-right: 10%;
+ margin-top: 8%;
+ margin-bottom: 8%;
+ text-align: justify;
+}
+
+h1 {
+  color:#36A57B;
+  text-align: center;
+}
+
+.contact-info {
+  display: flex; 
+  justify-content: space-around;
+}
+
+.section-header {
+    color:#6D5B77;
+    display: inline;
+  }  
+  
+  
+.break-line {
+  border-top: 2px solid #84A4A5;
+  
+}
+
+</css>
